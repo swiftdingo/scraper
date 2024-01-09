@@ -1,0 +1,243 @@
+
+3DES
+ Triple Digital Encryption Algorithm
+
+
+AAA
+ Authentication, Authorization, and Accounting
+
+
+ABAC
+ Attribute-based Access Control
+
+
+ACL
+ Access Control List
+
+
+AD
+ Active Directory
+
+
+AES
+ Advanced Encryption Standard
+
+
+AES256
+ Advanced Encryption Standards 256bit
+
+
+AH
+ Authentication Header
+
+
+AI
+ Artificial Intelligence
+
+
+AIS
+ Automated Indicator Sharing
+
+
+ALE
+ Annualized Loss Expectancy
+
+
+AP
+ Access Point
+
+
+API
+ Application Programming Interface
+
+
+APT
+ Advanced Persistent Threat
+
+
+ARO
+ Annualized Rate of Occurrence
+
+
+ARP
+ Address Resolution Protocol
+
+
+ASLR
+ Address Space Layout Randomization
+
+
+ASP
+ Active Server Pages
+
+
+ATT&CK
+ Adversarial Tactics, Techniques,
+
+
+AUP
+ Acceptable Use Policy
+
+
+AV
+ Antivirus
+
+
+BASH
+ Bourne Again Shell
+
+
+BCP
+ Business Continuity Planning
+
+
+BGP
+ Border Gateway Protocol
+
+
+BIA
+ Business Impact Analysis
+
+
+BIOS
+ Basic Input/Output System
+
+
+BPA
+ Business Partnership Agreement
+
+
+BPDU
+ Bridge Protocol Data Unit
+
+
+BSSID
+ Basic Service Set Identifier
+
+
+BYOD
+ Bring Your Own Device
+
+
+CA
+ Certificate Authority
+
+
+CAR
+ Corrective Action Report
+
+
+CASB
+ Cloud Access Security Broker
+
+
+CBC
+ Cipher Block Chaining
+
+
+CBT
+ Computer-based Training
+
+
+CCMP
+ Counter-Mode/CBC-MAC Protocol
+
+
+CCTV
+ Closed-Circuit Television
+
+
+CERT
+ Computer Emergency Response Team
+
+
+CFB
+ Cipher Feedback
+
+
+CHAP
+ Challenge-Handshake Authentication Protocol
+
+
+CIO
+ Chief Information Officer
+
+
+CIRT
+ Computer Incident Response Team
+
+
+CIS
+ Center for Internet Security
+
+
+CMS
+ Content Management System
+
+
+CN
+ Common Name
+
+
+COOP
+ Continuity of Operations Planning
+
+
+COPE
+ Corporate-owned Personally Enabled
+
+
+CP
+ Contingency Planning
+
+
+CRC
+ Cyclic Redundancy Check
+
+
+CRL
+ Certificate Revocation List
+
+
+CSIRT
+ Computer Security Incident Response Team
+
+
+CSO
+ Chief Security Officer
+
+
+CSP
+ Cloud Service Provider
+
+
+CSR
+ Certificate Signing Request
+
+
+CSRF
+ Cross-Site Request Forgery
+
+
+CSU
+ Channel Service Unit
+
+
+CTM
+ Counter-Mode
+
+
+CTO
+ Chief Technology Officer
+
+
+CVE
+ Common Vulnerabilities and Exposures
+
+
+CVSS
+ Common Vulnerability Scoring System
+
+
+CYOD
+ Choose Your Own Device

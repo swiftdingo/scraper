@@ -7,7 +7,7 @@ A script that will scrape all the
 flashcard data from securityplus.training
 """
 # get address to scrape
-addr = "https://securityplus.training/flashcard/flashcard-a/"
+addr = "https://securityplus.training/flashcard/acronyms-t-to-z/"
 
 # create headers to avoid 403 error(s)
 headers = {
@@ -43,20 +43,8 @@ for i in range(len(questions)):
     cards[question] = answer
 
 for question, answer in cards.items():
-    print(question, "\n", answer)
+    print(question,"\n",answer)
     print("\n")
 
-
-"""""
-for question in questions:
-    print(question.text)
-
-print("*******************************************************")
-print("*******************************************************")
-
-for answer in answers:
-    print(answer.text)
-
-"""""
 
 
